@@ -1,3 +1,9 @@
+---
+name: fix config
+about: Use this template to suggest corrections to the project.
+title: "[DATE]: [FEATURE NAME]"
+labels: fix, bug
+---
 ### Problem Description
 
 <!-- Briefly explain the problem or bug you encountered. -->

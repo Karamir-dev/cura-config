@@ -1,3 +1,9 @@
+---
+name: New filament
+about: Use this template for tracking new features.
+title: "[DATE]: [FEATURE NAME]"
+labels: tracking issue, needs triage
+---
 ### Manufacturer or Reseller of the Filament
 
 <!-- Mention the manufacturer or reseller of the filament you have tested. -->
